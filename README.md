@@ -16,6 +16,7 @@ The following language features are covered:
 - Control
 - Logical Operators
 - Loop 
+  - for - in a number of different styles 
 - Arrays and Slices
 - Functions
    - func - single/multiple outputs
@@ -36,6 +37,13 @@ The following language features are covered:
   - Error
   - Panic
 - Concurrency
+- Packages 
+    - Importing Packages
+    - Creating 
+    - Building 
+    - Intialisation
+    - Package Visibility
+    - Remote Packages
 - OS 
   - working with the OS
 - Network
