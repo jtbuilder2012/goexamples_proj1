@@ -49,3 +49,7 @@ The following language features are covered:
   - Map
   - Linked List 
   - Docuble Link List
+Testing
+    - Go Test Tool
+    - Test Coverage
+    - Code Benchmark
