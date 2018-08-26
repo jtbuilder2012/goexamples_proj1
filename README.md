@@ -56,8 +56,9 @@ The following language features are covered:
   - Hashtable
   - Map
   - Linked List 
-  - Docuble Link List
-Testing
-    - Go Test Tool
-    - Test Coverage
-    - Code Benchmark
+  - Double Link List
+    
+-Testing
+  - Go Test Tool
+  - Test Coverage
+  - Code Benchmark
